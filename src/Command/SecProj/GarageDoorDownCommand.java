@@ -5,5 +5,6 @@ package Command.SecProj;
  */
 public class GarageDoorDownCommand {
     public GarageDoorDownCommand(GarageDoor garageDoor) {
+
     }
 }
