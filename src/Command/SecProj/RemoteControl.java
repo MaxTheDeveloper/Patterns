@@ -44,9 +44,3 @@ public class RemoteControl {
 
 }
 
-class NoCommand implements Command {
-    @Override
-    public void execute() {
-
-    }
-}

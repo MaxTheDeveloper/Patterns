@@ -1,4 +1,5 @@
 package Command.FirstProj;
+import Command.*;
 
 
 /**
@@ -15,11 +16,4 @@ public class LightOnCommand implements Command {
         light.on();
     }
 }
-class Light{
-    void on(){
-        System.out.println("Light is on");
-    };
-    void off(){
-        System.out.println("Light is off");
-    };
-}
+
