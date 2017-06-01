@@ -6,6 +6,7 @@ import Command.Stereo;
 
 /**
  * Created by Maxim on 31.05.2017.
+ * RemoteLoader cоздает несколько объектов команд, которые загружаются в слоты RemoteControl. Каждый объект команды инкапсулирует запрос устройства домашней автоматизации
  */
 public class RemoteLoader {
     public static void main(String[] args) {

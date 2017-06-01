@@ -4,6 +4,7 @@ import Command.FirstProj.Command;
 
 /**
  * Created by Maxim on 31.05.2017.
+ * RemoteControl управляет набором объектов Command, по одному на кнопку. Когда кнопка нажата, вызывается соответствующая функция ButtonWasPushed(), вызывающая функцию execute() из интерфейса.
  */
 public class RemoteControl {
     Command[] onCommands;
