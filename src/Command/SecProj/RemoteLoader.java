@@ -25,7 +25,7 @@ public class RemoteLoader {
         remoteControl.offButtonWasPushed(0);
         System.out.println(remoteControl);
         remoteControl.undoButtonWasPushed();
-        remoteControl.onButtonWasPushed(0);
+        remoteControl.onButtonWasPushed(1);
         System.out.println(remoteControl);
         remoteControl.undoButtonWasPushed();
     }
