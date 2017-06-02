@@ -1,4 +1,4 @@
-package AdapterFacade;
+package AdapterFacade.FirstProj;
 
 /**
  * Created by Maxim on 02.06.2017.

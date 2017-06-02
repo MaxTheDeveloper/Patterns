@@ -1,4 +1,4 @@
-package AdapterFacade;
+package AdapterFacade.FirstProj;
 
 /**
  * Created by Maxim on 02.06.2017.
@@ -20,7 +20,7 @@ public class DuckTestDrive {
         System.out.println("\nThe TurkeyAdapter says...");
         testDuck(turkeyAdapter);
     }
-
+//
     private static void testDuck(Duck duck) {
         duck.quack();
         duck.fly();

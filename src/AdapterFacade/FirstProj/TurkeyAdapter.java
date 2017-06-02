@@ -1,4 +1,7 @@
-package AdapterFacade;
+package AdapterFacade.FirstProj;
+
+import AdapterFacade.FirstProj.Duck;
+import AdapterFacade.FirstProj.Turkey;
 
 /**
  * Created by Maxim on 02.06.2017.
